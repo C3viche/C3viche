@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm Cristian Embleton</h1>
-<h3 align="center">An ambitious developer from California</h3>
+<h1 align="center">Hi I'm Cristian Embleton - aka Ceviche</h1>
+<h3 align="center">An ambitious student, developer, and learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceviche&label=Profile%20views&color=0e75b6&style=flat" alt="ceviche" /> </p>
 
