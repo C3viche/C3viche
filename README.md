@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceviche&label=Profile%20views&color=0e75b6&style=flat" alt="ceviche" /> </p>
 
-- 🔭 I’m currently working on **Knight's Tour**
+- 🔭 I’m currently working on **School work**
 
 - 🌱 I’m currently learning **C++ and data structures**
 
