@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceviche&label=Profile%20views&color=0e75b6&style=flat" alt="ceviche" /> </p>
 
-- 🔭 I’m currently working on **Secret Stuff**
+- 🔭 I’m currently working on **my NixOS configuration**
 
-- 🌱 I’m currently learning **Julia**
+- 🌱 I’m currently learning **Nix**
 
-- 👯 I’m looking to collaborate on **anything that I get my hands on**
+- 👯 I’m looking to collaborate on **anything with anyone**
 
 - 📫 How to reach me **crisemble@gmail.com**
 
