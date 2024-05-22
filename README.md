@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceviche&label=Profile%20views&color=0e75b6&style=flat" alt="ceviche" /> </p>
 
-- 🔭 I’m currently working on **my NixOS configuration**
+- 🔭 I’m currently working on **my Arch system configuration**
 
-- 🌱 I’m currently learning **Nix**
+- 🌱 I’m currently learning **OpenGL**
 
 - 👯 I’m looking to collaborate on **anything with anyone**
 
