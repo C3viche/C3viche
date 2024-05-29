@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my Arch system configuration**
 
-- 🌱 I’m currently learning **OpenGL**
+- 🌱 I’m currently learning **computer graphics**
 
 - 👯 I’m looking to collaborate on **anything with anyone**
 
