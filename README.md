@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceviche&label=Profile%20views&color=0e75b6&style=flat" alt="ceviche" /> </p>
 
-- 🔭 I’m currently working on **a fullstack application for a client**
+- 🔭 I’m pursuing a **Computer Systems** career
 
-- 🌱 I’m currently learning **Rust and Remix**
-
-- 👯 I’m looking to collaborate on **anything with anyone**
+- 🌱 I’m currently learning **Go and Lisp**
 
 - 📫 How to reach me **crisemble@gmail.com**
 
