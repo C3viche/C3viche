@@ -5,7 +5,7 @@
 
 - 🔭 I’m pursuing a **Computer Systems** career
 
-- 🌱 I’m currently learning **Go, Lisp, Docker, and Kubernetes**
+- 🌱 I’m currently learning about **Distributed Systems and Cloud Infrastructure**
 
 - 📫 How to reach me **crisemble@gmail.com**
 
